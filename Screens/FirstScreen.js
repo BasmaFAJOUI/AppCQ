@@ -48,16 +48,16 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     height: height*0.3,
-    paddingBottom: 8,
+    paddingBottom: 0,
   },
   logoContainer2: {
     //alignItems: 'center',
     //justifyContent: 'center',
-    height: height*0.2,
+    height: height*0.1,
     paddingBottom: 8,
   },
   image: {
-    marginTop:100,
+    marginTop:80,
     height: height*0.27,
     width: width*0.6,
   },
@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
     width: '80%',
   },
   mainText: {
-    paddingTop: 100,
+    paddingTop: 80,
     fontSize: 36,
     fontFamily: 'Cairo_Bold',
     lineHeight: 70,
